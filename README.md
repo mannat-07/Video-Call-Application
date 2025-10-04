@@ -78,7 +78,7 @@ Follow these instructions to set up and run the project on your local machine.
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/mannat-07/Video-Chat-Application
+    git clone [https://github.com/mannat-07/Video-Chat-Application](https://github.com/mannat-07/Video-Call-Application)
     cd Video-Call-Application
     ```
 
